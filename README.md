@@ -29,13 +29,13 @@ LinkedIn: https://www.linkedin.com/in/success-igbinosa-a45852254/
 - Simulated PC component checks: Identified roles of CPU (processing), RAM (temporary memory), storage (HDD/SSD for data), and peripherals.  
 - Basic diagnostics: Checked compatibility and potential failure points.
 
-![Hardware Components Diagram](hardware-components.jpeg)
+![Hardware Components Diagram](hardware-components.png.jpeg)
 
 ### BIOS/UEFI Configuration Labs
 - Navigated BIOS menus to adjust boot order and enable Secure Boot for security.  
 - Troubleshot simulated boot issues (e.g., wrong boot device priority, CMOS reset basics).
 
-![BIOS Boot Order Settings](bios-boot-order.jpeg)
+![BIOS Boot Order Settings](bios-boot-order.png.jpeg)
 
 Embedded Module 2 screenshots in README for visual portfolio
 
