@@ -50,4 +50,4 @@ Embedded Module 2 screenshots in README for visual portfolio
 - **Next up:** Module 3 – Operating Systems
 
 ## Recent Additions to Portfolio
-- New screenshots and lab notes from Module 2 (peripherals, printer troubleshooting, mobile device basics)
+- New screenshots and lab notes from Module 2 (Assembling a computer.png.jpeg)
