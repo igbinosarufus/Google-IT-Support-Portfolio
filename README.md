@@ -39,3 +39,15 @@ LinkedIn: https://www.linkedin.com/in/success-igbinosa-a45852254/
 
 Embedded Module 2 screenshots in README for visual portfolio
 
+## Current Progress (Updated March 24, 2026)
+
+- **Course 1: Technical Support Fundamentals**  
+  • Module 2 ✅ Completed  
+    - Hardware components  
+    - BIOS/UEFI configuration  
+    - Peripherals, printers, mobile devices    
+
+- **Next up:** Module 3 – Operating Systems
+
+## Recent Additions to Portfolio
+- New screenshots and lab notes from Module 2 (peripherals, printer, mobile device basics)
