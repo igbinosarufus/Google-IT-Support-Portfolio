@@ -57,18 +57,26 @@ Embedded Module 2 screenshots in README for visual portfolio
 - Currently in: **Module 4 – System Administration and IT Infrastructure Services**
 
 ## Skills Gained So Far
-- Technical troubleshooting & customer communication
-- Networking basics (TCP/IP, DNS, subnetting)
-- Operating Systems (Windows & Linux): Command Line, file management, user permissions, process management
+- Technical troubleshooting & clear customer communication
+- Networking fundamentals (TCP/IP, DNS, subnetting)
+- Operating Systems (Windows & Linux): Command Line tools, file management, user permissions
 
-## Module 3: Operating Systems and You
+## Module 3: Operating Systems and You – Becoming a Power User
 **Completed:** April 2026
 
-**Key Skills:**
-- Linux and Windows Command Line (ls, cd, mkdir, chmod, sudo, etc.)
-- File & directory management
-- User account creation and permissions
-- Software installation and troubleshooting common OS issues
+**Key Skills Learned:**
+- Command Line Interface (CLI) on Linux and Windows
+- Creating and managing folders/directories
+- Basic file system navigation and organization
+- Troubleshooting common operating system issues
+
+**Qwiklabs Evidence:**
+- Created folders in Linux environment
+- Created folders in Windows environment
+
+**Screenshots:** Available in the `Module-3-Operating-Systems` folder
+
+**Last Updated:** April 8, 2026
 
 **Evidence:** See screenshots in the `Module-3-Operating-Systems` folder below.
 
