@@ -61,26 +61,17 @@ Embedded Module 2 screenshots in README for visual portfolio
 - Networking fundamentals (TCP/IP, DNS, subnetting)
 - Operating Systems (Windows & Linux): Command Line tools, file management, user permissions
 
-## Module 3: Operating Systems and You – Becoming a Power User
-**Completed:** April 2026
+# Module 3: Operating Systems and You – Becoming a Power User
 
-**Key Skills Learned:**
-- Command Line Interface (CLI) on Linux and Windows
+**Status:** ✅ Completed – April 2026
+
+**Key Learnings:**
+- Command Line navigation on Linux and Windows
 - Creating and managing folders/directories
-- Basic file system navigation and organization
-- Troubleshooting common operating system issues
-
-**Qwiklabs Evidence:**
-- Created folders in Linux environment
-- Created folders in Windows environment
-
-**Screenshots:** Available in the `Module-3-Operating-Systems` folder
+- Basic file system organization
 
 **Qwiklabs Screenshots:**
 
 ![Creating Linux Folder](Qwiklabs%20Linux%20Folder.png)
 
 ![Creating Windows Folder](Qwiklabs%20Windows%20Folder.png)
-
-**Last Updated:** April 8, 2026
-
