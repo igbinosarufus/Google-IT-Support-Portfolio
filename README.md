@@ -79,8 +79,8 @@ Embedded Module 2 screenshots in README for visual portfolio
 **Last Updated:** April 8, 2026
 
 **Evidence:** 
-![Qwiklabs Linux Folder](QwiklabsLinuxFolder.png)
+![Creating Linux Folder](Qwiklabs%20Linux%20Folder.png)
 
-![Qwiklabs Windows Folder](QwiklabsWindowsFolder.png)
+![Creating Windows Folder](Qwiklabs%20Windows%20Folder.png)
 
 **Last Updated:** April 8, 2026
