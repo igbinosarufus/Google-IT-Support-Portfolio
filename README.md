@@ -76,8 +76,6 @@ Embedded Module 2 screenshots in README for visual portfolio
 
 **Screenshots:** Available in the `Module-3-Operating-Systems` folder
 
-**Last Updated:** April 8, 2026
-
 **Qwiklabs Screenshots:**
 
 ![Creating Linux Folder](Qwiklabs%20Linux%20Folder.png)
@@ -85,3 +83,4 @@ Embedded Module 2 screenshots in README for visual portfolio
 ![Creating Windows Folder](Qwiklabs%20Windows%20Folder.png)
 
 **Last Updated:** April 8, 2026
+
