@@ -1,8 +1,8 @@
 # Google IT Support Professional Certificate Portfolio
 
 **Igbinosa**  
-Customer Support Specialist @ Teleperformance Nigeria    
-Pivoting to IT Support / Helpdesk roles in Lagos
+Customer Support Specialist @ Teleperformance Nigeria (Remote 8 am - 5 pm)
+Pivoting to IT Support / Helpdesk roles in Lagos by August 2026
 
 Currently completing the **Google IT Support Professional Certificate** on Coursera (almost finished Module 2).
 
@@ -72,6 +72,6 @@ Embedded Module 2 screenshots in README for visual portfolio
 
 **Qwiklabs Screenshots:**
 
-![Creating Linux Folder](Qwiklabs%20Linux%20Folder.png)
+![Creating Linux Folder](linux-folder.png)
 
-![Creating Windows Folder](Qwiklabs%20Windows%20Folder.png)
+![Creating Windows Folder](windows-folder.png)
