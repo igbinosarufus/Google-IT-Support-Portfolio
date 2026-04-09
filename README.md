@@ -1,8 +1,8 @@
 # Google IT Support Professional Certificate Portfolio
 
-**Igbinosa**  
-Customer Support Specialist @ Teleperformance Nigeria (Remote 8 am - 5 pm)
-Pivoting to IT Support / Helpdesk roles in Lagos by August 2026
+**Name:** Success Igbinosa  
+**Current Role:** Customer Support Specialist (Remote, 8 AM – 5 PM)  
+**Goal:** Transition into an IT Support / Technical Support role
 
 Currently completing the **Google IT Support Professional Certificate** on Coursera (almost finished Module 2).
 
