@@ -53,15 +53,15 @@ Embedded Module 2 screenshots in README for visual portfolio
 - New screenshots and lab notes from Module 2 ![Assembling a computer](./Assembling-a-computer.png.jpeg.png)
 
 ## Current Progress
-- **Module 3: Operating Systems and You – Becoming a Power User** → ✅ **Completed** (April 2026)
-- Currently in: **Module 4 – System Administration and IT Infrastructure Services**
+- **Module 3: Operating Systems** → ✅ **Completed** (April 2026)
+- Currently in: **Module 4 – Networking**
 
 ## Skills Gained So Far
 - Technical troubleshooting & clear customer communication
 - Networking fundamentals (TCP/IP, DNS, subnetting)
 - Operating Systems (Windows & Linux): Command Line tools, file management, user permissions
 
-# Module 3: Operating Systems and You – Becoming a Power User
+# Module 3: Operating Systems
 
 **Status:** ✅ Completed – April 2026
 
