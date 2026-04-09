@@ -3,12 +3,12 @@
 **Status:** ✅ Completed – April 2026
 
 **Key Learnings:**
-- Command Line on Linux and Windows
-- Creating and managing folders
-- Basic file system navigation
+- Command Line navigation on Linux and Windows
+- Creating and managing folders/directories
+- Basic file system organization
 
-**Screenshots:**
+**Qwiklabs Screenshots:**
 
-![Linux Folder](Qwiklabs Linux Folder.png)
+![Creating Linux Folder](Qwiklabs%20Linux%20Folder.png)
 
-![Windows Folder](Qwiklabs Windows Folder.png)
+![Creating Windows Folder](Qwiklabs%20Windows%20Folder.png)
