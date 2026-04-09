@@ -76,4 +76,18 @@ Embedded Module 2 screenshots in README for visual portfolio
 
 ![Creating Windows Folder](windows-folder.png)
 
-Last updated April 8 and 9
+## Current Progress
+- Module 1: Introduction to IT → Completed  
+- Module 2: Hardware → Completed  
+- Module 3: Operating System → Completed  
+- **Module 4: Networking** → In Progress (Started April 2026)
+
+## Skills Gained So Far
+- Introduction to IT and Technical Support
+- Hardware troubleshooting
+- Operating Systems basics (Windows & Linux)
+- Now learning: Networking fundamentals
+
+I am building this portfolio while working full-time remotely to show consistent progress in the Google IT Support Professional Certificate.
+
+**Last Updated:** April 8, 2026
