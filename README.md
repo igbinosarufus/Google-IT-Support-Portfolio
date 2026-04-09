@@ -78,6 +78,6 @@ Embedded Module 2 screenshots in README for visual portfolio
 
 **Last Updated:** April 8, 2026
 
-**Evidence:** See screenshots in the `Module-3-Operating-Systems` folder below.
+**Evidence:** (Qwiklabs Windows Folder.png), (Qwiklabs Linux Folder.png)
 
 **Last Updated:** April 8, 2026
