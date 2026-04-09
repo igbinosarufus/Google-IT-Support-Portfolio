@@ -13,4 +13,4 @@
 - User and permission management labs
 - OS troubleshooting labs
 
-**Screenshots:** Added in this folder
+**Screenshots:** (Qwiklabs Windows Folder.png), (Qwiklabs Linux Folder.png)
