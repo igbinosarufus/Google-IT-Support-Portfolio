@@ -54,31 +54,22 @@ Embedded Module 2 screenshots in README for visual portfolio
 
 ## Current Progress
 - **Module 3: Operating Systems and You – Becoming a Power User** → ✅ **Completed** (April 2026)
-- Currently working on: **Module 4 – System Administration and IT Infrastructure Services**
+- Currently in: **Module 4 – System Administration and IT Infrastructure Services**
 
 ## Skills Gained So Far
-- Technical troubleshooting and clear customer communication
-- Networking fundamentals (TCP/IP, DNS, DHCP, subnetting)
-- Operating Systems (Windows & Linux): Command Line tools, file & directory management, user permissions, process management, software installation
+- Technical troubleshooting & customer communication
+- Networking basics (TCP/IP, DNS, subnetting)
+- Operating Systems (Windows & Linux): Command Line, file management, user permissions, process management
 
-## Module 3: Operating Systems and You – Becoming a Power User
+## Module 3: Operating Systems and You
 **Completed:** April 2026
 
-**Key Topics & Skills:**
-- Command Line Interface (CLI) on Linux and Windows (ls, cd, mkdir, rm, chmod, sudo, etc.)
-- Managing files, directories, users, groups, and permissions
-- User account creation and management
-- Installing and configuring software/packages
-- Troubleshooting common OS issues (boot problems, software conflicts, permission errors)
+**Key Skills:**
+- Linux and Windows Command Line (ls, cd, mkdir, chmod, sudo, etc.)
+- File & directory management
+- User account creation and permissions
+- Software installation and troubleshooting common OS issues
 
-**Qwiklabs Completed:**
-- Linux command line navigation and file operations
-- User account and permission management
-- Software installation and package management
-- OS troubleshooting exercises
-
-**Evidence:** Screenshots and detailed notes available in the `Module-3-Operating-Systems` folder.
-
-I am building this portfolio while working full-time to demonstrate consistent hands-on progress toward becoming a competent IT Support professional.
+**Evidence:** See screenshots in the `Module-3-Operating-Systems` folder below.
 
 **Last Updated:** April 8, 2026
