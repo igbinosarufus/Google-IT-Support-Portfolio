@@ -91,3 +91,26 @@ Embedded Module 2 screenshots in README for visual portfolio
 I am building this portfolio while working full-time remotely to show consistent progress in the Google IT Support Professional Certificate.
 
 **Last Updated:** April 8, 2026
+
+## Current Progress
+- Module 1: Introduction to IT → Completed  
+- Module 2: Hardware → Completed  
+- Module 3: Operating System → Completed  
+- Module 4: Networking → ✅ Completed  
+- Module 5: Software → ✅ Completed  
+- **Module 6: Troubleshooting** → In Progress (April 2026)
+
+## Skills Gained So Far
+- Technical Support Fundamentals
+- Hardware & Software troubleshooting
+- Operating Systems basics
+- Networking fundamentals
+- Software installation, configuration & troubleshooting
+- Introduction to scripting concepts
+- Now learning: Structured troubleshooting methodology
+
+I am building this portfolio while working full-time remotely to demonstrate consistent hands-on progress toward becoming a competent IT Support professional.
+
+**Last Updated:** April 15, 2026
+
+
