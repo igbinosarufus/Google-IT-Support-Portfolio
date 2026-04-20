@@ -98,7 +98,7 @@ I am building this portfolio while working full-time remotely to show consistent
 - Module 3: Operating System → Completed  
 - Module 4: Networking → ✅ Completed  
 - Module 5: Software → ✅ Completed  
-- **Module 6: Troubleshooting** → In Progress (April 2026)
+- **Module 6: Troubleshooting** → In Progress (Target: Complete today)
 
 ## Skills Gained So Far
 - Technical Support Fundamentals
