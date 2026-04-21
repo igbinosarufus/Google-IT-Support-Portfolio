@@ -113,4 +113,24 @@ I am building this portfolio while working full-time remotely to demonstrate con
 
 **Last Updated:** April 15, 2026
 
+## Current Progress
+- **Course 1: Technical Support Fundamentals** → ✅ **Completed** (April 2026)
+  - Module 1: Introduction to IT → Completed  
+  - Module 2: Hardware → Completed  
+  - Module 3: Operating System → Completed  
+  - Module 4: Networking → Completed  
+  - Module 5: Software → Completed  
+  - Module 6: Troubleshooting → Completed  
 
+## Skills Gained So Far
+- Technical Support Fundamentals
+- Hardware & Software troubleshooting
+- Operating Systems basics
+- Networking fundamentals
+- Software installation, configuration & troubleshooting
+- Structured troubleshooting methodology
+- Introduction to scripting concepts
+
+I am building this portfolio while working full-time remotely to demonstrate consistent progress toward becoming a competent IT Support professional.
+
+**Last Updated:** April 17, 2026
