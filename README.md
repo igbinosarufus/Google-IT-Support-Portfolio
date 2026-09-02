@@ -1,4 +1,4 @@
-# Google IT Support Professional Certificate â€” Portfolio
+# Google IT Support Professional Certificate Portfolio
 
 **Name:** Success Igbinosa
 **Current Role:** Customer Support Specialist (Remote)
@@ -10,11 +10,11 @@ I'm a Customer Support Specialist with 5+ years of experience across banking, e-
 
 | Course | Status |
 |---|---|
-| 1. Technical Support Fundamentals | âœ… Completed |
-| 2. The Bits and Bytes of Computer Networking | âœ… Completed |
-| 3. Operating Systems and You: Becoming a Power User | â¬œ Not Started |
-| 4. System Administration and IT Infrastructure Services | â¬œ Not Started |
-| 5. IT Security: Defense Against the Digital Dark Arts | â¬œ Not Started |
+| 1. Technical Support Fundamentals | Completed |
+| 2. The Bits and Bytes of Computer Networking | Completed |
+| 3. Operating Systems and You: Becoming a Power User | Not Started |
+| 4. System Administration and IT Infrastructure Services | Not Started |
+| 5. IT Security: Defense Against the Digital Dark Arts | Not Started |
 
 *Last updated: August 2026*
 
