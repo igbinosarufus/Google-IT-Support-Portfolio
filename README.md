@@ -27,7 +27,7 @@ I'm a Customer Support Specialist with 5+ years of experience across banking, e-
 
 ## Course 1: Technical Support Fundamentals
 
-**Status:** âœ… Completed
+**Status:** Completed
 
 **Key Learnings:**
 - Identifying and understanding the role of core hardware components (CPU, RAM, storage, peripherals)
@@ -43,7 +43,7 @@ I'm a Customer Support Specialist with 5+ years of experience across banking, e-
 
 ## Course 2: The Bits and Bytes of Computer Networking
 
-**Status:** âœ… Completed
+**Status:** Completed
 
 **Key Learnings:**
 - TCP/IP fundamentals and how devices communicate on a network
@@ -57,15 +57,15 @@ I'm a Customer Support Specialist with 5+ years of experience across banking, e-
 
 ## Course 3: Operating Systems and You
 
-**Status:** â¬œ Not started yet.
+**Status:** Not started yet.
 
 ## Course 4: System Administration and IT Infrastructure Services
 
-**Status:** â¬œ Not started yet.
+**Status:** Not started yet.
 
 ## Course 5: IT Security: Defense Against the Digital Dark Arts
 
-**Status:** â¬œ Not started yet.
+**Status:** Not started yet.
 
 ## Connect
 
