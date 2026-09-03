@@ -45,6 +45,7 @@ I'm a Customer Support Specialist with 5+ years of experience across banking, e-
 
 **Status:** Completed
 
+
 **Key Learnings:**
 - TCP/IP fundamentals and how devices communicate on a network
 - DNS and how domain names resolve to IP addresses
@@ -52,7 +53,8 @@ I'm a Customer Support Specialist with 5+ years of experience across banking, e-
 - Basic connectivity troubleshooting (ping, traceroute, ipconfig)
 
 **Project:**
-[Home Network Diagram & Documentation - projects/network-diagram](Networking.drawio.jpeg) — a diagram of my own home network with subnetting, DHCP, and DNS explained in my own words, plus a real troubleshooting log using `ping`, `tracert`, and `ipconfig`.
+## Diagram
+![Home Network Diagram](Networking.drawio.jpeg) — a diagram of my own home network with subnetting, DHCP, and DNS explained in my own words, plus a real troubleshooting log using `ping`, `tracert`, and `ipconfig`.
 
 ## Course 3: Operating Systems and You
 
