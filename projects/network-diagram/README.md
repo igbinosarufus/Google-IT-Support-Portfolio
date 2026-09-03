@@ -4,7 +4,7 @@
 A basic diagram of my home network, along with an explanation of core networking concepts I'm learning in the Google IT Support Professional Certificate (Networking module).
 
 ## Diagram
-![Home Network Diagram](network-diagram.png)
+![Home Network Diagram](Networking.drawio.png)
 
 ## What I learned
 - **Local IP address:** identifies a device within my home network, assigned automatically by my router via DHCP.
