@@ -53,8 +53,6 @@ I'm a Customer Support Specialist with 5+ years of experience across banking, e-
 
 **Project:** [Home Network Diagram & Documentation](./projects/network-diagram) a diagram of my own home network with subnetting, DHCP, and DNS explained in my own words, plus a real troubleshooting log using `ping`, `tracert`, and `ipconfig`.
 
-*(Project folder and diagram to be added â€” see next steps below.)*
-
 ## Course 3: Operating Systems and You
 
 **Status:** Not started yet.
