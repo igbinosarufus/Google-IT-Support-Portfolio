@@ -52,9 +52,7 @@ I'm a Customer Support Specialist with 5+ years of experience across banking, e-
 - Subnetting and IP addressing
 - Basic connectivity troubleshooting (ping, traceroute, ipconfig)
 
-**Project:**
-## Diagram
-![Home Network Diagram](Networking.drawio.jpeg) — a diagram of my own home network with subnetting, DHCP, and DNS explained in my own words, plus a real troubleshooting log using `ping`, `tracert`, and `ipconfig`.
+**Project:** [Home Network Diagram & Documentation](projects/network-diagram) — a diagram of my own home network with subnetting, DHCP, and DNS explained in my own words, plus a real troubleshooting log using `ping`, `tracert`, and `ipconfig`.
 
 ## Course 3: Operating Systems and You
 
