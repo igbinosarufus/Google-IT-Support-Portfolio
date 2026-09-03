@@ -69,5 +69,4 @@ I'm a Customer Support Specialist with 5+ years of experience across banking, e-
 ## Connect
 
 - LinkedIn: [linkedin.com/in/success-igbinosa-a45852254](https://www.linkedin.com/in/success-igbinosa-a45852254/)
-  
-
+- X: @rufusmarch
